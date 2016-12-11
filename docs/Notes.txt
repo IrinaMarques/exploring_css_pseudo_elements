@@ -37,3 +37,9 @@ content: ""
 }
 
 By default the content it's a inline content so we can style this.
+
+=================
+What Comes After
+=================
+
+Works like the before element but the difference is in the place. 
