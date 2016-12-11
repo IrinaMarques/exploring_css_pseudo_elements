@@ -1,0 +1,25 @@
+===================================
+Pseudo-Classes vs. Pseudo-Elements
+===================================
+
+Pseudo Classes:
+
+- Target elements that match a certain criteria or state
+- The name of the pseudo class is preceded by a single colon
+
+:hover - target and style a link when it hovers that link
+:first-child - list item that is first child of a parent element
+:nth-child - allows to gets more specific
+:not() - certain items that not needed specified criteria
+
+Pseudo Elements:
+
+- Generally target a certain part of an element
+- The name of the pseudo class is preceded by two colons
+(IE8 don't work very good with this ::) 
+
+::before - allows to add and style content that cames before the rest os the content
+::after
+::first-letter
+::first-line
+::selection 
