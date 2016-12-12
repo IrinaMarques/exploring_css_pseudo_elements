@@ -64,3 +64,14 @@ Allows to style first letter or the first line of an element with multiple lines
 ::first-letter
 
 ::first-line
+
+====================
+Selecting Selections
+====================
+
+::selection
+
+Allows to customize a highlight text.
+
+Subtle way of match the style of the website
+
