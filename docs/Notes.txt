@@ -43,3 +43,9 @@ What Comes After
 =================
 
 Works like the before element but the difference is in the place. 
+
+=================
+Before and After
+=================
+
+We can combine this two pseudo-elements together and create a list of icons. 
