@@ -1,3 +1,8 @@
 nicolasgallagher.com/pure-css-gui-icons/
 
 This site have a list of icons that was created just using html and css mostly using just the pseudo-elements ::before and ::after.
+
+=====
+caniuse.com
+
+Site that says if something is suported in the browser

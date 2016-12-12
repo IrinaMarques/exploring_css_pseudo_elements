@@ -75,3 +75,16 @@ Allows to customize a highlight text.
 
 Subtle way of match the style of the website
 
+=========
+Backdrop
+=========
+
+Only avalable on Chrome version 37+, Safari 6+ and Opera 24+.
+
+Associated with <dialog> element the most popular use deals with modals.
+
+The <dialog> it's going to appear above everything else on the stage.  
+When the dialog box appear the screen behind fade a little bit it becames a litle bit darker --> this is huge element that covers all the screen --> this is the backdrop
+
+::backdrop
+
