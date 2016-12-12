@@ -31,6 +31,9 @@ What Comes Before
 For IE8 use only :
 
 When we add a ::before he have to use the content: property. If we don't added it's not going to work fine.
+
+::before
+
 Ex. 
 h1::before {
 content: ""
@@ -44,8 +47,20 @@ What Comes After
 
 Works like the before element but the difference is in the place. 
 
+::after
+
 =================
 Before and After
 =================
 
 We can combine this two pseudo-elements together and create a list of icons. 
+
+===========================
+First Letter and First Line
+===========================
+
+Allows to style first letter or the first line of an element with multiple lines.
+
+::first-letter
+
+::first-line
